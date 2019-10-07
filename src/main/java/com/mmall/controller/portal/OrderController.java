@@ -56,7 +56,7 @@ public class OrderController {
             }
         }
         if ("0001".equals(resCode)){
-
+            new ServerResponse(1);
         }
 
 
